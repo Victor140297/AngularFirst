@@ -1,0 +1,9 @@
+.Ingreso_datos {
+    position: relative;
+    border: 1px solid rgb(1, 53, 224);
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
